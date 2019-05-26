@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/Users/nyowusu/Documents/Programming/Python/Django/testwbapp"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "./env/bin/python"
+	}
+}
